@@ -10,4 +10,6 @@ pkg install git
 
 git clone https://github.com/dan998/CyberPhish
 
+cd CyberPhish
+
 bash CyberPhish.sh
